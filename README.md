@@ -74,7 +74,7 @@
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=120&section=footer&text=ITACHI-XDM%20v2.0&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-*© 2025 Ibrahima Sory Sacko — Tous droits réservés*
+*© 2026 Ibrahima Sory Sacko — Tous droits réservés*
 
 </div>
 
